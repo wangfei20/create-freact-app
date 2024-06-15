@@ -1,6 +1,5 @@
-import React,{ useState, useEffect } from 'freact'
-import Home from './home';
+import React from 'freact'
 
 export default function App() {
-return <Home/>
+    return "hi"
 }
